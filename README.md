@@ -61,4 +61,9 @@ This Arduino Radar project provides a practical demonstration of how ultrasonic 
 This project not only enhances your understanding of Arduino and sensor technology but also gives you the satisfaction of building a working radar system. Enjoy the process and happy building!
 
 ---
+![Thank You](https://img.shields.io/badge/Thank%20You!-blue?style=flat-square&logo=smile)
 
+<!-- Graphical GIF Animation -->
+<div class="gif-container" style="text-align: center; margin-bottom: 20px;">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzdob2I4cHdsdWhnbmtmYTBxbnk4cnl2YjZ1bGw5ZGZvMXBwdWc4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/00n6TSoGffGTLXSMPO/giphy.gif" alt="Working on it GIF" />
+</div>
