@@ -28,9 +28,8 @@
    - GND to **GND**
 
 3. **📍 Build the Circuit on Breadboard**: Assemble the components on the breadboard, ensuring proper connections using jumper wires.
-
----
-
+--
+-![Hardware Setup Image 1](https://github.com/user-attachments/assets/75e2a47d-8f2c-49c5-be0c-e465394167e2)
 ## ⚙️ How It Works
 
 - **📈 Rotating Scan**: The servo motor rotates the ultrasonic sensor, allowing it to scan a wide area.
