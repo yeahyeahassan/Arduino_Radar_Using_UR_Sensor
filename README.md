@@ -12,6 +12,8 @@
 
 ---
 
+![arduino_radar_animation](https://github.com/user-attachments/assets/277dd99f-271f-4c0a-9169-92eb4ec97469)
+
 ## 🛠️ Circuit Assembly
 
 1. **🛠️ Connect the Ultrasonic Sensor**: 
@@ -36,7 +38,6 @@
 - **🖥️ Visual Display**: The data collected by the sensor is sent to a connected display (e.g., a computer) that shows a radar-like interface, visualizing the position of detected objects.
 
 ---
-
 ## 💻 Software Integration
 
 - **💡 Arduino IDE**: Program your Arduino Uno to control the sensor and motor.
